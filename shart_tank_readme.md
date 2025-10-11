@@ -85,8 +85,11 @@ The main objective is to analyze how different sharks invest across seasons, sta
 ## 🏁 Learnings
 
 ✅ Learned how to build modular and parameterized SQL logic
+
 ✅ Strengthened understanding of CTEs, Window Functions, and Stored Procedures
+
 ✅ Improved efficiency of large analytical queries
+
 ✅ Gained clarity in SQL-based business storytelling
 
 ---
